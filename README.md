@@ -6,10 +6,10 @@
 <hr>
 <img align="right" alt="programmer" width="350" src="programmer.gif">
 &nbsp;
-- <img alt="GIF" src="Developer.gif" width="27" /> &nbsp; I’m currently learning Blockchain**
-- <img alt="GIF" src="hyperkitty.gif" width="22" /> &nbsp;&nbsp; I like exploring **new Algorithms**
-- <img alt="GIF" src="message.gif" width="27" /> &nbsp; Ask me about **Java, Python, Data Structures and Algo., HTML, CSS, Javascript**
-- &nbsp;&nbsp;<img alt="GIF" src="lightning.gif" width="15" /> &nbsp;&nbsp; Fun fact: **Crack it to know->**
+- <img alt="GIF" src="Developer.gif" width="22" /> &nbsp; I’m currently learning Blockchain**
+- <img alt="GIF" src="hyperkitty.gif" width="22" /> &nbsp;&nbsp; I like to explore **new Algorithms**
+- <img alt="GIF" src="message.gif" width="22" /> &nbsp; Ask me about **Java, Python, Data Structures and Algo., HTML, CSS, Javascript**
+<!-- - &nbsp;&nbsp;<img alt="GIF" src="lightning.gif" width="15" /> &nbsp;&nbsp; Fun fact: **Crack it to know->** -->
 &nbsp;
 <hr>
 
@@ -60,9 +60,9 @@
 <p>&nbsp;<img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=RithyaReddy&theme=flag-india" alt="RithyaReddy"/><img align="center" alt="curious" width="250" src="curious.gif"></p>
 <hr>
 
-<h3 align="left">GitHub Activity Graph:</h3>
+<!-- <h3 align="left">GitHub Activity Graph:</h3>
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=RithyaReddy&bg_color=904e99&color=fff&line=4fff67&point=ffffff&area=true&hide_border=true)
-<hr>
+<hr> -->
 
 <img src="dino.gif?raw=true" />
 
