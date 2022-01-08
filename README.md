@@ -4,15 +4,23 @@
 <h3 align="center">A Blockchain developer, Backend developer and a Competitive programmer. </h3>
 
 <hr>
-<img align="right" alt="programmer"height="250" width="250" src="programmer.gif">
-&nbsp;
-- <img alt="GIF" src="Developer.gif" width="20" /> &nbsp; I’m currently learning **Blockchain**
-- <img alt="GIF" src="hyperkitty.gif" width="20" /> &nbsp;&nbsp; I like to explore **new Algorithms**
-- <img alt="GIF" src="message.gif" width="20" /> &nbsp; Ask me about **Java, Python, Data Structures and Algo., HTML, CSS, Javascript**
-- &nbsp;&nbsp;<img alt="GIF" src="lightning.gif" width="15" /> &nbsp;&nbsp; Fun fact: **liebt Hühnchen**
-&nbsp;
-<hr>
+<img align="right" alt="programmer" height="250" width="250" src="programmer.gif">
 
+&nbsp;
+
+- <img alt="GIF" src="Developer.gif" width="27" /> &nbsp; I’m currently working on **Problem solving and developing Blockchain based applications**
+
+- <img alt="GIF" src="hyperkitty.gif" width="22" /> &nbsp;&nbsp; I like to explore **new Algorithms**
+
+- <img alt="GIF" src="message.gif" width="27" /> &nbsp; Ask me about **Java, Python, Data Structures and Algo., HTML, CSS, DBMS**
+
+- <img alt="GIF" src="letterbox.gif" width="27" /> &nbsp; How to reach me **<a href="https://www.linkedin.com/in/rithya-p-29ab071a9/">Linkedin</a>**
+
+- &nbsp;&nbsp;<img alt="GIF" src="lightning.gif" width="15" /> &nbsp;&nbsp; Fun fact: **liebt Hühnchen**
+
+&nbsp;
+
+<hr>
 <h3 align="left">Connect with me:</h3>
 <p align="center">
 <a href="https://github.com/RithyaReddy"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
