@@ -14,7 +14,7 @@
 
 - <img alt="GIF" src="message.gif" width="27" /> &nbsp; Ask me about **Java, Python, Data Structures and Algo., HTML, CSS, DBMS**
 
-- <img alt="GIF" src="letterbox.gif" width="27" /> &nbsp; How to reach me **<a href="pisatirithyareddy@gmail.com">e-mail</a>**
+- <img alt="GIF" src="letterbox.gif" width="27" /> &nbsp; How to reach me **<a href="mailto:pisatirithyareddy@gmail.com?subject="Link" target="_blank">e-mail</a>**
 
 - &nbsp;&nbsp;<img alt="GIF" src="lightning.gif" width="15" /> &nbsp;&nbsp; Fun fact: **liebt Hühnchen**
 
