@@ -3,7 +3,7 @@
 <br>Hallo <img alt="GIF" src="waving-hand.gif" width="5%" />, I'm Rithya</h1>
 <h3 align="center">A Blockchain developer, Backend developer and a Competitive programmer. </h3>
 
-<hr><br>
+<hr>
 <img align="right" alt="programmer" height="200" width="300" src="programmer.gif">
 
 &nbsp;
@@ -16,7 +16,7 @@
 
 - <img alt="GIF" src="letterbox.gif" width="27" /> &nbsp; How to reach me **<a href="mailto:pisatirithyareddy@gmail.com">e-mail</a>**
 
-- &nbsp;&nbsp;<img alt="GIF" src="lightning.gif" width="15" /> &nbsp;&nbsp; Fun fact: **liebt Hühnchen**
+<!-- - &nbsp;&nbsp;<img alt="GIF" src="lightning.gif" width="15" /> &nbsp;&nbsp; Fun fact: **liebt Hühnchen** -->
 
 &nbsp;
 
