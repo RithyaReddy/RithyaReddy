@@ -4,7 +4,7 @@
 <h3 align="center">A Blockchain developer, Backend developer and a Competitive programmer. </h3>
 
 <hr>
-<img align="right" alt="programmer" height="300" width="200" src="programmer.gif">
+<img align="right" alt="programmer" height="200" width="300" src="programmer.gif">
 
 &nbsp;
 
