@@ -3,7 +3,7 @@
 <br>Hallo <img alt="GIF" src="waving-hand.gif" width="5%" />, I'm Rithya</h1>
 <h3 align="center">A Blockchain developer, Backend developer and a Competitive programmer. </h3>
 
-<hr>
+<hr><br>
 <img align="right" alt="programmer" height="200" width="300" src="programmer.gif">
 
 &nbsp;
