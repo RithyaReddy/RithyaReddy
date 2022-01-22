@@ -12,7 +12,7 @@
 
 - <img alt="GIF" src="hyperkitty.gif" width="22" /> &nbsp;&nbsp; I like to explore **new Algorithms**
 
-- <img alt="GIF" src="message.gif" width="27" /> &nbsp; Ask me about **Java, Python, Data Structures and Algo., HTML, CSS, DBMS**
+- <img alt="GIF" src="message.gif" width="27" /> &nbsp; Ask me about **Java, Python, Data Structures and Algo., DBMS**
 
 - <img alt="GIF" src="letterbox.gif" width="27" /> &nbsp; How to reach me **<a href="mailto:pisatirithyareddy@gmail.com">e-mail</a>**
 
