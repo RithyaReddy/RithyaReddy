@@ -8,9 +8,9 @@
 
 &nbsp;
 
-- <img alt="GIF" src="Developer.gif" width="27" /> &nbsp; I’m currently working on **Problem solving and developing Blockchain based applications**
+- <img alt="GIF" src="Developer.gif" width="27" /> &nbsp; I’m currently focusing on **Linux and developing Blockchain based applications**
 
-- <img alt="GIF" src="hyperkitty.gif" width="22" /> &nbsp;&nbsp; I like to explore **new Algorithms**
+- <img alt="GIF" src="hyperkitty.gif" width="22" /> &nbsp;&nbsp; I like to explore **DApps**
 
 - <img alt="GIF" src="message.gif" width="27" /> &nbsp; Ask me about **Java, Python, Data Structures and Algo., DBMS**
 
