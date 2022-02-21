@@ -31,7 +31,7 @@
 
 <h3 align="left">My coding profiles:</h3>
 <p align="center">
-<a href="https://www.hackerrank.com/rithya_pisati"><img alt="linkedin" width="7%" style="padding:5px" src="hackerrank.png"/></a>
+<a href="https://www.hackerrank.com/_rithya_pisati"><img alt="linkedin" width="7%" style="padding:5px" src="hackerrank.png"/></a>
 <a href="https://leetcode.com/RithyaReddy/"><img alt="leetcode" width="7%" style="padding:5px" src="leetcode.png"/></a>
 </p>
 
