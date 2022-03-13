@@ -62,15 +62,15 @@
 
 <p>&emsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=RithyaReddy&show_icons=true&locale=en&layout=compact&bg_color=50,e96205,904e99&title_color=fff&text_color=fff&icon_color=f2f2f2" alt="RithyaReddy" /> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<img  alt="tech" width="250" height="150" src="tech.gif"></p><br>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=RithyaReddy&show_icons=true&count_private=true&hide_border=true&bg_color=50,e96205,904e99&title_color=fff&text_color=fff&icon_color=f2f2f2" alt="RithyaReddy" /><img align="left" alt="typing-cat" width="250" src="typing-cat.gif"></p><br>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=RithyaReddy&show_icons=true&count_private=true&hide_border=true&bg_color=50,e96205,904e99&title_color=fff&text_color=fff&icon_color=f2f2f2" alt="RithyaReddy" /><img align="left" alt="typing-cat" width="250" src="typing-cat.gif">&nbsp;</p><br>
  
-<p>&nbsp;<img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=RithyaReddy&theme=flag-india" alt="RithyaReddy"/><img align="center" alt="curious" width="250" src="curious.gif"></p>
-<hr><br>
+<p>&nbsp;&nbsp;<img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=RithyaReddy&theme=flag-india" alt="RithyaReddy"/>&nbsp;<img align="right" alt="curious" width="250" height="160" src="curious.gif">&nbsp;</p>
+<br>
 
 <!-- <h3 align="left">GitHub Activity Graph:</h3>
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=RithyaReddy&bg_color=904e99&color=fff&line=4fff67&point=ffffff&area=true&hide_border=true)
 <hr> -->
-
-<img src="dino.gif?raw=true" />
+<p>&nbsp;&nbsp;
+<img src="dino.gif?raw=true" /></p>
 
 <hr># RithyaReddy
