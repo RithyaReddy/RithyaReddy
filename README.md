@@ -71,6 +71,6 @@
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=RithyaReddy&bg_color=904e99&color=fff&line=4fff67&point=ffffff&area=true&hide_border=true)
 <hr> -->
 <p>&nbsp;&nbsp;
-<img src="dino.gif?raw=true" align=center></p>
+<img align=center src="dino.gif?raw=true" ></p>
 
 <hr># RithyaReddy
