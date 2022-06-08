@@ -1,18 +1,18 @@
 <h1 align="center">
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=RithyaReddy&label=Profile%20views&color=0e75b6&style=flat" alt="RithyaReddy" />  </p>
 <br>Hallo <img alt="GIF" src="waving-hand.gif" width="5%" />, I'm Rithya</h1>
-<h3 align="center">A Blockchain developer, Backend developer and a Competitive programmer. </h3>
+<h3 align="center">A Python Developer </h3>
 
 <hr>
 <img align="right" alt="programmer" height="200" width="300" src="programmer.gif">
 
 &nbsp;
 
-- <img alt="GIF" src="Developer.gif" width="27" /> &nbsp; I’m currently focusing on **Linux and developing Blockchain based applications**
+- <img alt="GIF" src="Developer.gif" width="27" /> &nbsp; I’m currently focusing on **Linux and Python based GUI and Web applications**
 
-- <img alt="GIF" src="hyperkitty.gif" width="22" /> &nbsp;&nbsp; I like to explore **DApps**
+- <img alt="GIF" src="hyperkitty.gif" width="22" /> &nbsp;&nbsp; I like to explore in the field of **Natural Language Processing and OpenCV**
 
-- <img alt="GIF" src="message.gif" width="27" /> &nbsp; Ask me about **Java, Python, Data Structures and Algo., DBMS**
+- <img alt="GIF" src="message.gif" width="27" /> &nbsp; Ask me about **Python, C++, Data Structures and Algorithms**
 
 - <img alt="GIF" src="letterbox.gif" width="27" /> &nbsp; How to reach me **<a href="mailto:pisatirithyareddy@gmail.com">e-mail</a>**
 
