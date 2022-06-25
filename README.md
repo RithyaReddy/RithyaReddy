@@ -12,7 +12,7 @@
 
 - <img alt="GIF" src="hyperkitty.gif" width="22" /> &nbsp;&nbsp; I like to explore in the field of **Natural Language Processing and OpenCV**
 
-- <img alt="GIF" src="message.gif" width="27" /> &nbsp; Ask me about **Python, C++, Data Structures and Algorithms**
+- <img alt="GIF" src="message.gif" width="27" /> &nbsp; Ask me about **Python, Java, Data Structures and Algorithms**
 
 - <img alt="GIF" src="letterbox.gif" width="27" /> &nbsp; How to reach me **<a href="mailto:pisatirithyareddy@gmail.com">e-mail</a>**
 
