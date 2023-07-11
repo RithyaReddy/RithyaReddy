@@ -12,7 +12,7 @@
 
 - <img alt="GIF" src="hyperkitty.gif" width="22" /> &nbsp;&nbsp; I like to explore in the field of **Computer Vision and YOLO Algorithms**
 
-- <img alt="GIF" src="message.gif" width="27" /> &nbsp; Ask me about **Python, Data Structures and Algorithms in Java, SQL, PowerBI**
+- <img alt="GIF" src="message.gif" width="27" /> &nbsp; Ask me about **Python, DSA in Java, SQL, PowerBI**
 
 - <img alt="GIF" src="letterbox.gif" width="27" /> &nbsp; How to reach me **<a href="mailto:pisatirithyareddy@gmail.com">e-mail</a>**
 
