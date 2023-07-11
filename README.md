@@ -1,7 +1,7 @@
 <h1 align="center">
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=RithyaReddy&label=Profile%20views&color=0e75b6&style=flat" alt="RithyaReddy" />  </p>
 <br>Hallo <img alt="GIF" src="waving-hand.gif" width="5%" />, I'm Rithya</h1>
-<h3 align="center">A Python Developer </h3>
+<h3 align="center">Data and Tech Enthusiast</h3>
 
 <hr>
 <img align="right" alt="programmer" height="200" width="300" src="programmer.gif">
